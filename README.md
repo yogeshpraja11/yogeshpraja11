@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Yogesh Kumar<br>- A passionate Full-stack developer from India<br>🔭 I’m currently working on CourseOn https://github.com/yogeshpraja11/Course_app<br>👨‍💻 All of my projects are available at http://yogeshpraja.netlify.app/<br>🌱 I’m currently learning React-Native<br>
+Hi 👋, I'm Yogesh Kumar<br>- A passionate Full-stack developer from India<br>🔭 I’m currently working on CourseOn https://github.com/yogeshpraja11/Course_app<br>👨‍💻 All of my projects are available at http://yogeshpraja.com/<br>🌱 I’m currently learning React-Native<br>
 
 
 ## 🌐 Socials:
